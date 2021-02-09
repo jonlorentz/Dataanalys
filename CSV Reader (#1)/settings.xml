@@ -25,7 +25,7 @@
 <entry key="location_present" type="xboolean" value="true"/>
 <entry key="file_system_type" type="xstring" value="CUSTOM_URL"/>
 <entry key="file_system_specifier" type="xstring" value="1000"/>
-<entry key="path" type="xstring" value="file:/C:/Users/imcha/knime-workspace/DAProject/data/cleanprep.csv"/>
+<entry key="path" type="xstring" value="knime://knime.workflow/data/cleanprep.csv"/>
 </config>
 <config key="filter_mode_Internals">
 <entry key="SettingsModelID" type="xstring" value="SMID_FilterMode"/>
@@ -64,7 +64,7 @@
 <entry key="autodetect_buffer_size" type="xint" value="1048576"/>
 </config>
 <config key="table_spec_config_Internals">
-<entry key="root_path_Internals" type="xstring" value="file:/C:/Users/imcha/knime-workspace/DAProject/data/cleanprep.csv"/>
+<entry key="root_path_Internals" type="xstring" value="knime://knime.workflow/data/cleanprep.csv"/>
 <config key="datatable_spec_Internals">
 <entry key="spec_name" type="xstring" value="default"/>
 <entry key="number_columns" type="xint" value="5"/>
@@ -131,7 +131,7 @@
 </config>
 <config key="file_paths_Internals">
 <entry key="array-size" type="xint" value="1"/>
-<entry key="0" type="xstring" value="/C:/Users/imcha/knime-workspace/DAProject/data/cleanprep.csv"/>
+<entry key="0" type="xstring" value="data/cleanprep.csv"/>
 </config>
 <config key="individual_specs_Internals">
 <config key="individual_spec_0">
@@ -280,6 +280,6 @@
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="dba2ba6e-9dc0-4ed3-89d8-6dadbdff96af"/>
+<entry key="file_store_id" type="xstring" value="85e503c1-e0e7-493f-8508-a56003dcd68d"/>
 </config>
 </config>

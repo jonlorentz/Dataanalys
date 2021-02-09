@@ -8,10 +8,10 @@
 <entry key="authored-by" type="xstring" value="imcha"/>
 <entry key="authored-when" type="xstring" value="2021-02-09 11:30:06 +0100"/>
 <entry key="lastEdited-by" type="xstring" value="imcha"/>
-<entry key="lastEdited-when" type="xstring" value="2021-02-09 11:56:26 +0100"/>
+<entry key="lastEdited-when" type="xstring" value="2021-02-09 12:03:30 +0100"/>
 </config>
 <entry key="customDescription" type="xstring" isnull="true" value=""/>
-<entry key="state" type="xstring" value="EXECUTED"/>
+<entry key="state" type="xstring" value="CONFIGURED"/>
 <config key="workflow_credentials"/>
 <config key="nodes">
 <config key="node_1">
@@ -23,8 +23,8 @@
 <config key="ui_settings">
 <config key="extrainfo.node.bounds">
 <entry key="array-size" type="xint" value="4"/>
-<entry key="0" type="xint" value="84"/>
-<entry key="1" type="xint" value="317"/>
+<entry key="0" type="xint" value="144"/>
+<entry key="1" type="xint" value="337"/>
 <entry key="2" type="xint" value="74"/>
 <entry key="3" type="xint" value="78"/>
 </config>
