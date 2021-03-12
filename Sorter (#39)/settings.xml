@@ -38,12 +38,20 @@
 <entry key="index" type="xint" value="1"/>
 <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
 <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
+<<<<<<< Updated upstream
 <entry key="port_object_summary" type="xstring" value="Rows: 26427, Cols: 11"/>
+=======
+<entry key="port_object_summary" type="xstring" value="Rows: 1103, Cols: 11"/>
+>>>>>>> Stashed changes
 <entry key="port_dir_location" type="xstring" value="port_1"/>
 </config>
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
+<<<<<<< Updated upstream
 <entry key="file_store_id" type="xstring" value="ed23a7a7-3dfa-4a75-98d6-c75667047e57"/>
+=======
+<entry key="file_store_id" type="xstring" value="740df4f0-226a-4074-9f18-0479c319cee0"/>
+>>>>>>> Stashed changes
 </config>
 </config>

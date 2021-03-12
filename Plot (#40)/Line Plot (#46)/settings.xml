@@ -69,7 +69,11 @@
 </config>
 </config>
 </config>
+<<<<<<< Updated upstream
 <entry key="maxRows" type="xint" value="25000"/>
+=======
+<entry key="maxRows" type="xint" value="5000"/>
+>>>>>>> Stashed changes
 <entry key="selectionColumnName" type="xstring" value="Selected (Line Plot)"/>
 <entry key="xAxisLabel" type="xstring" value=""/>
 <entry key="yAxisLabel" type="xstring" value=""/>
@@ -154,11 +158,15 @@
 </config>
 </config>
 <entry key="customDescription" type="xstring" isnull="true" value=""/>
+<<<<<<< Updated upstream
 <entry key="state" type="xstring" value="EXECUTED"/>
 <config key="nodecontainer_message">
 <entry key="type" type="xstring" value="WARNING"/>
 <entry key="message" type="xstring" value="Only the first 25000 rows are displayed."/>
 </config>
+=======
+<entry key="state" type="xstring" value="CONFIGURED"/>
+>>>>>>> Stashed changes
 <entry key="factory" type="xstring" value="org.knime.js.base.node.viz.plotter.line.LinePlotNodeFactory"/>
 <entry key="node-name" type="xstring" value="Line Plot"/>
 <entry key="node-bundle-name" type="xstring" value="KNIME JavaScript Base Views"/>
@@ -171,11 +179,16 @@
 <entry key="node-feature-version" type="xstring" value="4.3.0.v202011211957"/>
 <config key="factory_settings"/>
 <entry key="name" type="xstring" value="Line Plot"/>
+<<<<<<< Updated upstream
 <entry key="hasContent" type="xboolean" value="true"/>
+=======
+<entry key="hasContent" type="xboolean" value="false"/>
+>>>>>>> Stashed changes
 <entry key="isInactive" type="xboolean" value="false"/>
 <config key="ports">
 <config key="port_1">
 <entry key="index" type="xint" value="1"/>
+<<<<<<< Updated upstream
 <entry key="port_spec_class" type="xstring" value="org.knime.core.node.port.inactive.InactiveBranchPortObjectSpec"/>
 <entry key="port_object_class" type="xstring" value="org.knime.core.node.port.inactive.InactiveBranchPortObject"/>
 <entry key="port_object_summary" type="xstring" value="Inactive Port Object"/>
@@ -189,10 +202,21 @@
 <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
 <entry key="port_object_summary" type="xstring" value="Rows: 26427, Cols: 11"/>
 <entry key="port_dir_location" type="xstring" value="port_2"/>
+=======
+<entry key="port_dir_location" type="xstring" isnull="true" value=""/>
+</config>
+<config key="port_2">
+<entry key="index" type="xint" value="2"/>
+<entry key="port_dir_location" type="xstring" isnull="true" value=""/>
+>>>>>>> Stashed changes
 </config>
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
+<<<<<<< Updated upstream
 <entry key="file_store_id" type="xstring" value="eca22537-af26-4105-a56a-58abc7627406"/>
+=======
+<entry key="file_store_id" type="xstring" isnull="true" value=""/>
+>>>>>>> Stashed changes
 </config>
 </config>

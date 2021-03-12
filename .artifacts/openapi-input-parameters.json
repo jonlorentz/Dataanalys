@@ -1,0 +1,26 @@
+
+{
+    "type": "object",
+    "properties": {
+        "column_name-76:211": {
+            "type": "object",
+            "properties": {
+                "columns": {
+                    "type": "array",
+                    "items": {
+                        "type": "string",
+                        "default": "Count(text)"
+                    }
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "columns": [
+                    "Count(text)",
+                    "Mean(score)",
+                    "Mean(Last*(Mean(Column1)))"
+                ]
+            }
+        }
+    }
+}

@@ -40,12 +40,24 @@
 <entry key="0" type="xstring" value="Count(text)"/>
 </config>
 <config key="excluded_names">
+<<<<<<< Updated upstream
 <entry key="array-size" type="xint" value="5"/>
+=======
+<entry key="array-size" type="xint" value="10"/>
+>>>>>>> Stashed changes
 <entry key="0" type="xstring" value="timestamp"/>
 <entry key="1" type="xstring" value="Mean(compound)"/>
 <entry key="2" type="xstring" value="Sum(retweets)"/>
 <entry key="3" type="xstring" value="Sum(likes)"/>
 <entry key="4" type="xstring" value="Sum(replies)"/>
+<<<<<<< Updated upstream
+=======
+<entry key="5" type="xstring" value="Mean(score)"/>
+<entry key="6" type="xstring" value="Mean(Mean(Column1))"/>
+<entry key="7" type="xstring" value="Sum(Sum(Column2))"/>
+<entry key="8" type="xstring" value="First*(Mean(Column1))"/>
+<entry key="9" type="xstring" value="Last*(Mean(Column1))"/>
+>>>>>>> Stashed changes
 </config>
 <entry key="enforce_option" type="xstring" value="EnforceExclusion"/>
 <config key="name_pattern">
@@ -55,16 +67,28 @@
 </config>
 <config key="datatype">
 <config key="typelist">
+<<<<<<< Updated upstream
 <entry key="org.knime.core.data.StringValue" type="xboolean" value="false"/>
+=======
+<entry key="org.knime.core.data.time.localdate.LocalDateValue" type="xboolean" value="false"/>
+>>>>>>> Stashed changes
 <entry key="org.knime.core.data.IntValue" type="xboolean" value="false"/>
 <entry key="org.knime.core.data.DoubleValue" type="xboolean" value="false"/>
 <entry key="org.knime.core.data.BooleanValue" type="xboolean" value="false"/>
 <entry key="org.knime.core.data.LongValue" type="xboolean" value="false"/>
+<<<<<<< Updated upstream
+=======
+<entry key="org.knime.core.data.StringValue" type="xboolean" value="false"/>
+>>>>>>> Stashed changes
 <entry key="org.knime.core.data.date.DateAndTimeValue" type="xboolean" value="false"/>
 </config>
 </config>
 </config>
+<<<<<<< Updated upstream
 <entry key="maxRows" type="xint" value="2500"/>
+=======
+<entry key="maxRows" type="xint" value="25000"/>
+>>>>>>> Stashed changes
 <entry key="selectionColumnName" type="xstring" value="Selected (Line Plot)"/>
 <entry key="xAxisLabel" type="xstring" value=""/>
 <entry key="yAxisLabel" type="xstring" value=""/>

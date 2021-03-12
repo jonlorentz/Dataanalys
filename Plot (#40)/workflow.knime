@@ -178,7 +178,11 @@
 <config key="connections">
 <config key="connection_0">
 <entry key="sourceID" type="xint" value="-1"/>
+<<<<<<< Updated upstream
 <entry key="destID" type="xint" value="45"/>
+=======
+<entry key="destID" type="xint" value="47"/>
+>>>>>>> Stashed changes
 <entry key="sourcePort" type="xint" value="0"/>
 <entry key="destPort" type="xint" value="1"/>
 <entry key="ui_classname" type="xstring" value="org.knime.core.node.workflow.ConnectionUIInformation"/>
@@ -188,7 +192,11 @@
 </config>
 <config key="connection_1">
 <entry key="sourceID" type="xint" value="-1"/>
+<<<<<<< Updated upstream
 <entry key="destID" type="xint" value="44"/>
+=======
+<entry key="destID" type="xint" value="46"/>
+>>>>>>> Stashed changes
 <entry key="sourcePort" type="xint" value="0"/>
 <entry key="destPort" type="xint" value="1"/>
 <entry key="ui_classname" type="xstring" value="org.knime.core.node.workflow.ConnectionUIInformation"/>
@@ -198,7 +206,11 @@
 </config>
 <config key="connection_2">
 <entry key="sourceID" type="xint" value="-1"/>
+<<<<<<< Updated upstream
 <entry key="destID" type="xint" value="43"/>
+=======
+<entry key="destID" type="xint" value="45"/>
+>>>>>>> Stashed changes
 <entry key="sourcePort" type="xint" value="0"/>
 <entry key="destPort" type="xint" value="1"/>
 <entry key="ui_classname" type="xstring" value="org.knime.core.node.workflow.ConnectionUIInformation"/>
@@ -208,7 +220,11 @@
 </config>
 <config key="connection_3">
 <entry key="sourceID" type="xint" value="-1"/>
+<<<<<<< Updated upstream
 <entry key="destID" type="xint" value="42"/>
+=======
+<entry key="destID" type="xint" value="44"/>
+>>>>>>> Stashed changes
 <entry key="sourcePort" type="xint" value="0"/>
 <entry key="destPort" type="xint" value="1"/>
 <entry key="ui_classname" type="xstring" value="org.knime.core.node.workflow.ConnectionUIInformation"/>
@@ -218,7 +234,11 @@
 </config>
 <config key="connection_4">
 <entry key="sourceID" type="xint" value="-1"/>
+<<<<<<< Updated upstream
 <entry key="destID" type="xint" value="41"/>
+=======
+<entry key="destID" type="xint" value="43"/>
+>>>>>>> Stashed changes
 <entry key="sourcePort" type="xint" value="0"/>
 <entry key="destPort" type="xint" value="1"/>
 <entry key="ui_classname" type="xstring" value="org.knime.core.node.workflow.ConnectionUIInformation"/>
@@ -228,7 +248,11 @@
 </config>
 <config key="connection_5">
 <entry key="sourceID" type="xint" value="-1"/>
+<<<<<<< Updated upstream
 <entry key="destID" type="xint" value="40"/>
+=======
+<entry key="destID" type="xint" value="42"/>
+>>>>>>> Stashed changes
 <entry key="sourcePort" type="xint" value="0"/>
 <entry key="destPort" type="xint" value="1"/>
 <entry key="ui_classname" type="xstring" value="org.knime.core.node.workflow.ConnectionUIInformation"/>
@@ -238,7 +262,11 @@
 </config>
 <config key="connection_6">
 <entry key="sourceID" type="xint" value="-1"/>
+<<<<<<< Updated upstream
 <entry key="destID" type="xint" value="39"/>
+=======
+<entry key="destID" type="xint" value="41"/>
+>>>>>>> Stashed changes
 <entry key="sourcePort" type="xint" value="0"/>
 <entry key="destPort" type="xint" value="1"/>
 <entry key="ui_classname" type="xstring" value="org.knime.core.node.workflow.ConnectionUIInformation"/>
@@ -248,6 +276,7 @@
 </config>
 <config key="connection_7">
 <entry key="sourceID" type="xint" value="-1"/>
+<<<<<<< Updated upstream
 <entry key="destID" type="xint" value="38"/>
 <entry key="sourcePort" type="xint" value="0"/>
 <entry key="destPort" type="xint" value="1"/>
@@ -255,6 +284,19 @@
 <config key="connection_8">
 <entry key="sourceID" type="xint" value="-1"/>
 <entry key="destID" type="xint" value="46"/>
+=======
+<entry key="destID" type="xint" value="40"/>
+<entry key="sourcePort" type="xint" value="0"/>
+<entry key="destPort" type="xint" value="1"/>
+<entry key="ui_classname" type="xstring" value="org.knime.core.node.workflow.ConnectionUIInformation"/>
+<config key="ui_settings">
+<entry key="extrainfo.conn.bendpoints_size" type="xint" value="0"/>
+</config>
+</config>
+<config key="connection_8">
+<entry key="sourceID" type="xint" value="-1"/>
+<entry key="destID" type="xint" value="39"/>
+>>>>>>> Stashed changes
 <entry key="sourcePort" type="xint" value="0"/>
 <entry key="destPort" type="xint" value="1"/>
 <entry key="ui_classname" type="xstring" value="org.knime.core.node.workflow.ConnectionUIInformation"/>
@@ -264,6 +306,7 @@
 </config>
 <config key="connection_9">
 <entry key="sourceID" type="xint" value="-1"/>
+<<<<<<< Updated upstream
 <entry key="destID" type="xint" value="47"/>
 <entry key="sourcePort" type="xint" value="0"/>
 <entry key="destPort" type="xint" value="1"/>
@@ -271,6 +314,11 @@
 <config key="ui_settings">
 <entry key="extrainfo.conn.bendpoints_size" type="xint" value="0"/>
 </config>
+=======
+<entry key="destID" type="xint" value="38"/>
+<entry key="sourcePort" type="xint" value="0"/>
+<entry key="destPort" type="xint" value="1"/>
+>>>>>>> Stashed changes
 </config>
 </config>
 <config key="meta_in_ports">
